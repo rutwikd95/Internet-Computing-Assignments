@@ -1,0 +1,44 @@
+
+.headerdiv{
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 65px;
+  background-color:#ff9966;
+  font:solid 30px verdana;
+  font-size: 30px;
+}
+.navdiv,.main_content{
+  float:left;
+}
+.main_content{
+  width:80%;
+  background-color: #ff5050;
+  height:650px;
+}
+.navdiv{
+  width:20%;
+  background-color: #d2d2d2;
+    height:650px;
+    background-color: #ffe6b3;
+}
+.navdiv li{
+  text-decoration: none;
+  list-style-type: none;
+}
+.footerdiv{
+  text-align: center;
+
+}
+.title h1{
+  padding-left: 2px;
+  font:solid 16px verdana;
+}
+.date span{
+    padding-left: 5px;
+    font:normal 18px verdana;
+}
+.Content p{
+    padding-left: 5px;
+    font:normal 16px verdana;
+}
